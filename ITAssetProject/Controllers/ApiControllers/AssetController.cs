@@ -1,8 +1,8 @@
-﻿using ITAssets.Models;
-using ITAssets.Repository;
+﻿using ITAssetProject.Models;
+using ITAssetProject.Repository;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ITAssets.Controllers.ApiControllers
+namespace ITAssetsProject.Controllers.ApiControllers
 {
     [Route("api/[controller]")]
     [ApiController]
